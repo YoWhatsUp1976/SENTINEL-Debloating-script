@@ -226,15 +226,7 @@ This tool is provided for educational and legitimate system administration purpo
 - Understanding the implications of system modifications
 - Using tools ethically and responsibly
 
-##  Version History
 
-### v1.0
-- Initial release
-- Core bloatware removal functionality
-- Security tools installation via Chocolatey
-- Basic threat detection engine
-- Privacy optimization features
-- Interactive menu system
 
 ---
 
